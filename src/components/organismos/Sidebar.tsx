@@ -62,7 +62,7 @@ const Sidebar = () => {
       items: [
         { icon: <BookOpen size={20} />, label: "Cursos", path: "/cursos" },
         { icon: <GraduationCap size={20} />, label: "Matrículas", path: "/matriculas" },
-        { icon: <School size={20} />, label: "Centro Formación", path: "/centro-formacion" },
+        { icon: <School size={20} />, label: "Centro Formación", path: "/centroformacion" },
         { icon: <Briefcase size={20} />, label: "Programas", path: "/programas" },
       ],
     },
