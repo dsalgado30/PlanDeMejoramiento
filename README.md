@@ -48,3 +48,6 @@ After modifying the `.npmrc` file, you need to run `pnpm install` again to ensur
 ## License
 
 Licensed under the [MIT license](https://github.com/frontio-ai/vite-template/blob/main/LICENSE).
+
+## Correr Simulacion Backend
+json-server --watch db.json --port 3001
